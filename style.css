@@ -1,0 +1,116 @@
+@font-face {
+	font-family: Lato;
+	src: url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+}
+body{
+    display: flex;
+    overflow: hidden;
+    margin: 0px;
+    font-family: Lato;
+    color: white;
+}
+nav{
+    width: 260px;
+    height: 100vh;
+    background: linear-gradient(#3B608D, #27466D, #122D4D);
+}
+main{
+    width: 100%;
+    overflow-y: visible;
+    background: linear-gradient(#5387B5, #5387B5 ,#3B608D, #122D4D);
+    padding: 100px 50px ;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+}
+p{
+    margin: 10px 0px;
+}
+
+#ADD{
+    height: 45px;
+    width: 160px;
+    color: white;
+    border: #2F4C79, 2px, solid;
+    background-color: #276699;
+    border-radius: 10px;
+}
+
+.flex{
+    display: flex;
+}
+.flexcol{
+    flex-direction: column;
+}
+.justify_center{
+    justify-content: center;
+}
+.item_center{
+    align-items: center;
+}
+
+.width25{
+    width: 25px;
+}
+.width35{
+    width: 35px;
+}
+.width260{
+    width: 260px;
+}
+.width{
+    width: 350px;
+}
+
+.margin10r{
+    margin-right: 10px;
+}
+.margin20{
+    margin: 10px;
+}
+.margin1030{
+    margin: 10px 30px
+}
+.margin25t{
+    margin-top: 25px;
+}
+
+.padding20{
+    padding: 20px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.bold{
+    font-weight: 600;
+}
+.fsize30{
+    font-size: 30px;
+}
+.fsize20{
+    font-size: 20px;
+}
+
+.filters{
+    background-color: #276699;
+    border: #2F4C79, 2px, solid;
+    border-radius: 10px;
+    height: 40px;
+    gap: 5px;
+    
+}
+.filters > button{
+    border: #2F4C79, 2px, solid;
+    background-color: #75A0C4;
+    border-radius: 5px;
+    width: 35px;
+    height: 35px;
+    padding: 0px;
+    
+}
