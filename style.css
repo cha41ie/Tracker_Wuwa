@@ -1,14 +1,4 @@
-@font-face {
-	font-family: Lato;
-	src: url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
-}
-body{
-    display: flex;
-    overflow: hidden;
-    margin: 0px;
-    font-family: Lato;
-    color: white;
-}
+
 nav{
     width: 260px;
     height: 100vh;
@@ -40,24 +30,16 @@ p{
     border-radius: 10px;
 }
 
-.flex{
-    display: flex;
-}
-.flexcol{
-    flex-direction: column;
-}
-.justify_center{
-    justify-content: center;
-}
-.item_center{
-    align-items: center;
-}
+
 
 .width25{
     width: 25px;
 }
 .width35{
     width: 35px;
+}
+.width_160{
+    width: 160px;
 }
 .width260{
     width: 260px;
@@ -103,7 +85,6 @@ p{
     border-radius: 10px;
     height: 40px;
     gap: 5px;
-    
 }
 .filters > button{
     border: #2F4C79, 2px, solid;
