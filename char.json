@@ -1,0 +1,275 @@
+{
+    "Alto":{
+        "name": "Alto",
+        "star": "four",
+        "weapon": "Pistol",
+        "element": "Aero",
+
+        "flower": ["Wintry_Bell", "one"],
+        "boss": ["Roaring_Rock_Fist", "four"],
+        "weakly_boss": ["Monument_Bell", "four"],
+
+        "monsters_two": ["LF_Howler_Core", "two"],
+        "monsters_three": ["MF_Howler_Core", "three"],
+        "monsters_four": ["HF_Howler_Core", "four"],
+        "monsters_five": ["FF_Howler_Core", "five"],
+
+        "forgery_two": ["Impure_Phlogiston", "two"],
+        "forgery_three": ["Extracted_Phlogiston", "three"],
+        "forgery_four": ["Refined_Phlogiston", "four"],
+        "forgery_five": ["Flawless_Phlogiston", "five"]
+    },
+
+    "Augusta":{
+        "name": "Augusta",
+        "star": "five",
+        "weapon": "Broadblade",
+        "element": "Electro",
+
+        "flower": ["Luminous_Calendula", "one"],
+        "boss": ["Blighted_Crown_of_Puppet_King", "four"],
+        "weakly_boss": ["When_Irises_Bloom", "four"],
+
+        "monsters_two": ["LF_Tidal_Residuum", "two"],
+        "monsters_three": ["MF_Tidal_Residuum", "three"],
+        "monsters_four": ["HF_Tidal_Residuum", "four"],
+        "monsters_five": ["FF_Tidal_Residuum", "five"],
+
+        "forgery_two": ["Waveworn_Residue_210", "two"],
+        "forgery_three": ["Waveworn_Residue_226", "three"],
+        "forgery_four": ["Waveworn_Residue_235", "four"],
+        "forgery_five": ["Waveworn_Residue_239", "five"]
+    },
+
+    "Baizhi":{
+        "name": "Baizhi",
+        "star": "four",
+        "weapon": "Rectifier",
+        "element": "Glacio",
+
+        "flower": ["Lanternberry", "one"],
+        "boss": ["Sound-Keeping_Tacet_Core", "four"],
+        "weakly_boss": ["Monument_Bell", "four"],
+
+        "monsters_two": ["LF_Howler_Core", "two"],
+        "monsters_three": ["MF_Howler_Core", "three"],
+        "monsters_four": ["HF_Howler_Core", "four"],
+        "monsters_five": ["FF_Howler_Core", "five"],
+
+        "forgery_two": ["Lento_Helix", "two"],
+        "forgery_three": ["Adagio_Helix", "three"],
+        "forgery_four": ["Andante_Helix", "four"],
+        "forgery_five": ["Presto_Helix", "five"] 
+    },
+
+    "Brant":{
+        "name": "Brant",
+        "star": "five",
+        "weapon": "Sword",
+        "element": "Fusion",
+
+        "flower": ["Golden_Fleece", "one"],
+        "boss": ["Blazing_Bone", "four"],
+        "weakly_boss": ["The_Netherworlds_Stare", "four"],
+
+        "monsters_two": ["LF_Tidial_Residuun", "two"],
+        "monsters_three": ["MF_Tidial_Residuun", "three"],
+        "monsters_four": ["HF_Tidial_Residuun", "four"],
+        "monsters_five": ["FF_Tidial_Residuun", "five"],
+
+        "forgery_two": ["Inert_Metallic_Drip", "two"],
+        "forgery_three": ["Reactive_Metallic_Drip", "three"],
+        "forgery_four": ["Polarized_Metallic_Drip", "four"],
+        "forgery_five": ["Heterized_Metallic_Drip", "five"]
+    },
+
+    "Calcharo":{
+        "name": "Calcharo",
+        "star": "five",
+        "weapon": "Sword",
+        "element": "Electro",
+
+        "flower": "Iris",
+        "boss": "Thundering_Tacet_Core",
+        "weakly_boss": "Monument_Bell",
+
+        "monsters_two": ["Crude_Ring", "two"],
+        "monsters_three": ["Basic_Ring", "three"],
+        "monsters_four": ["Improved_Ring", "four"],
+        "monsters_five": ["Tailored_Ring", "five"],
+
+        "forgery_two": ["Waveworn_Residue_210", "two"],
+        "forgery_three": ["Waveworn_Residue_226", "three"],
+        "forgery_four": ["Waveworn_Residue_235", "four"],
+        "forgery_five": ["Waveworn_Residue_239", "five"]
+    },
+
+    "Camellya":{
+        "name": "Camellya",
+        "star": "five",
+        "weapon": "Sword",
+        "element": "Havoc",
+
+        "flower": "Nova",
+        "boss": "Topological_Confinement",
+        "weakly_boss": "Dreamless_Feather",
+
+        "monsters_two": ["LF_Whisperin_Core", "two"],
+        "monsters_three": ["MF_Whisperin_Core", "three"],
+        "monsters_four": ["HF_Whisperin_Core", "four"],
+        "monsters_five": ["FF_Whisperin_Core", "five"],
+
+        "forgery_two": ["Inert_Metallic_Drip", "two"],
+        "forgery_three": ["Reactive_Metallic_Drip", "three"],
+        "forgery_four": ["Polarized_Metallic_Drip", "four"],
+        "forgery_five": ["Heterized_Metallic_Drip", "five"]
+    },
+
+    "Cantarella ":{
+        "name": "Cantarella ",
+        "star": "five",
+        "weapon": "Rectifier",
+        "element": "Havoc",
+
+        "flower": "Seaside_Cendrelis",
+        "boss": "Cleansing_Conch",
+        "weakly_boss": "When_Irises_Bloom",
+
+        "monsters_two": ["LF_Polygon_Core", "two"],
+        "monsters_three": ["MF_Polygon_Core", "three"],
+        "monsters_four": ["HF_Polygon_Core", "four"],
+        "monsters_five": ["FF_Polygon_Core", "five"],
+
+        "forgery_two": ["Lento_Helix", "two"],
+        "forgery_three": ["Adagio_Helix", "three"],
+        "forgery_four": ["Andante_Helix", "four"],
+        "forgery_five": ["Presto_Helix", "five"]
+    },
+
+    "Carlotta ":{
+        "name": "Carlotta ",
+        "star": "five",
+        "weapon": "Pistol",
+        "element": "Glacio",
+
+        "flower": "Sword_Acorus",
+        "boss": "Platinum_Core",
+        "weakly_boss": "The_Netherworlds_Stare",
+
+        "monsters_two": ["LF_Polygon_Core", "two"],
+        "monsters_three": ["MF_Polygon_Core", "three"],
+        "monsters_four": ["HF_Polygon_Core", "four"],
+        "monsters_five": ["FF_Polygon_Core", "five"],
+
+        "forgery_two": ["Impure_Phlogiston", "two"],
+        "forgery_three": ["Extracted_Phlogiston", "three"],
+        "forgery_four": ["Refined_Phlogiston", "four"],
+        "forgery_five": ["Flawless_Phlogiston", "five"]
+    },
+
+    "Cartethyia":{
+        "name": "Cartethyia",
+        "star": "five",
+        "weapon": "Sword",
+        "element": "Aero",
+
+        "flower": "Bamboo_Iris",
+        "boss": "Unfading_Glory",
+        "weakly_boss": "When_Irises_Bloom",
+
+        "monsters_two": ["LF_Tidial_Residuun", "two"],
+        "monsters_three": ["M  F_Tidial_Residuun", "three"],
+        "monsters_four": ["HF_Tidial_Residuun", "four"],
+        "monsters_five": ["FF_Tidial_Residuun", "five"],
+
+        "forgery_two": ["Inert_Metallic_Drip", "two"],
+        "forgery_three": ["Reactive_Metallic_Drip", "three"],
+        "forgery_four": ["Polarized_Metallic_Drip", "four"],
+        "forgery_five": ["Heterized_Metallic_Drip", "five"]
+    },
+
+    "Changli":{
+        "name": "Changli",
+        "star": "five",
+        "weapon": "Sword",
+        "element": "Fusion",
+
+        "flower": "Pavo_Plum",
+        "boss": "Rage_Tacet_Core",
+        "weakly_boss": "Sentinets_Dagger",
+
+        "monsters_two": ["Crude_Ring", "two"],
+        "monsters_three": ["Basic_Ring", "three"],
+        "monsters_four": ["Improved_Ring", "four"],
+        "monsters_five": ["Tailored_Ring", "five"],
+
+        "forgery_two": ["Inert_Metallic_Drip", "two"],
+        "forgery_three": ["Reactive_Metallic_Drip", "three"],
+        "forgery_four": ["Polarized_Metallic_Drip", "four"],
+        "forgery_five": ["Heterized_Metallic_Drip", "five"]
+    },
+
+    "Chixia":{
+        "name": "Chixia",
+        "star": "four",
+        "weapon": "Pistol",
+        "element": "Fusion",
+
+        "flower": "Belle_Poppy",
+        "boss": "Rage_Tacet_Core",
+        "weakly_boss": "Monument_Bell",
+
+        "monsters_two": ["LF_Whisperin_Core", "two"],
+        "monsters_three": ["MF_Whisperin_Core", "three"],
+        "monsters_four": ["HF_Whisperin_Core", "four"],
+        "monsters_five": ["FF_Whisperin_Core", "five"],
+
+        "forgery_two": ["Impure_Phlogiston", "two"],
+        "forgery_three": ["Extracted_Phlogiston", "three"],
+        "forgery_four": ["Refined_Phlogiston", "four"],
+        "forgery_five": ["Flawless_Phlogiston", "five"]
+    },
+
+    "Ciaccona ":{
+        "name": "Ciaccona ",
+        "star": "five",
+        "weapon": "Pistol",
+        "element": "Aero",
+
+        "flower": "Golden_Fleece",
+        "boss": "Blazing_Bone",
+        "weakly_boss": "When_Irises_Bloom",
+
+        "monsters_two": ["LF_Tidial_Residuun", "two"],
+        "monsters_three": ["MF_Tidial_Residuun", "three"],
+        "monsters_four": ["HF_Tidial_Residuun", "four"],
+        "monsters_five": ["FF_Tidial_Residuun", "five"],
+
+        "forgery_two": ["Impure_Phlogiston", "two"],
+        "forgery_three": ["Extracted_Phlogiston", "three"],
+        "forgery_four": ["Refined_Phlogiston", "four"],
+        "forgery_five": ["Flawless_Phlogiston", "five"]
+    },
+    
+    "text":{
+        "name": "text",
+        "star": "stars",
+        "weapon": "weapon",
+        "element": "element",
+
+        "flower": "flower",
+        "boss": "boss",
+        "weakly_boss": "weakly",
+
+        "monsters_two": ["cos", "two"],
+        "monsters_three": ["cos", "three"],
+        "monsters_four": ["cos", "four"],
+        "monsters_five": ["cos", "five"],
+
+        "forgery_two": ["cos", "two"],
+        "forgery_three": ["cos", "three"],
+        "forgery_four": ["cos", "four"],
+        "forgery_five": ["cos", "five"]
+    }
+
+}
