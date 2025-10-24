@@ -9,7 +9,7 @@
         "boss": ["Roaring_Rock_Fist", "four"],
         "weakly_boss": ["Monument_Bell", "four"],
 
-        "monsters_two": ["LF_Howler_Core", "two"],
+        "monsters_two": ["LF_Howler_Core", "Two"],
         "monsters_three": ["MF_Howler_Core", "three"],
         "monsters_four": ["HF_Howler_Core", "four"],
         "monsters_five": ["FF_Howler_Core", "five"],
